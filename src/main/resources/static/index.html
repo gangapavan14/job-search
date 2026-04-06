@@ -215,7 +215,6 @@
 </div>
 
 <script>
-    const BASE_URL = "http://localhost:8080";
     const skillsInput = document.getElementById("skillsInput");
     const getJobsButton = document.getElementById("getJobsButton");
     const resultsContainer = document.getElementById("results");
@@ -229,7 +228,7 @@
         resultsContainer.innerHTML = "";
 
         try {
-            const response = await fetch(`${BASE_URL}/jobs/top${query}`);
+            const response = await fetch(`/jobs/top${query}`);
             if (!response.ok) {
                 throw new Error(`Request failed with status ${response.status}`);
             }
