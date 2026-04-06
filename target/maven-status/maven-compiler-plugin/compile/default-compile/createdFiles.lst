@@ -1,0 +1,6 @@
+com\jobsearch\recommendation\infrastructure\source\AdzunaJobProvider$AdzunaLocation.class
+com\jobsearch\recommendation\infrastructure\source\AdzunaJobProvider$AdzunaSearchResponse.class
+com\jobsearch\recommendation\infrastructure\source\ActiveJobProvider.class
+com\jobsearch\recommendation\infrastructure\source\AdzunaJobProvider.class
+com\jobsearch\recommendation\infrastructure\source\AdzunaJobProvider$AdzunaCompany.class
+com\jobsearch\recommendation\infrastructure\source\AdzunaJobProvider$AdzunaJobResult.class
