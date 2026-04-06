@@ -1,0 +1,15 @@
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\application\port\JobProvider.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\application\port\MatchingService.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\application\port\SkillExtractionService.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\application\service\JobService.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\application\service\MatchingServiceImpl.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\application\service\SkillExtractionServiceImpl.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\domain\model\Job.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\domain\repository\JobRepository.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\infrastructure\config\CorsConfig.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\infrastructure\scheduler\DailyJobScheduler.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\infrastructure\source\ActiveJobProvider.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\infrastructure\source\AdzunaJobProvider.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\infrastructure\source\MockJobProvider.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\interfaces\rest\JobController.java
+C:\Users\bonag\OneDrive\Desktop\job search\src\main\java\com\jobsearch\recommendation\JobRecommendationApplication.java
