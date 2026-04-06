@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # job-search
 =======
 # Job Recommendation System
@@ -20,3 +21,6 @@ Next step:
 
 - implement `MockJobProvider`
 >>>>>>> 92fc132 (Initial commit - Job Recommendation System)
+=======
+# job-search
+>>>>>>> 780a895d3516b676a6df74f1981d3ec76e2270f6
